@@ -1,7 +1,10 @@
 ### 1.Which of the following statements is incorrect?
 A. Clean is a functional programming language
+
 B. Clean uses lazy evaluation
+
 C. Clean uses eager evaluation
+
 D. Clean is a not an imperative language
 
 --------
