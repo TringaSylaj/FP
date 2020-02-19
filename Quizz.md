@@ -1,25 +1,22 @@
 ### 1.Which of the following statements is incorrect?
-A. Clean is a functional programming language
-
-B. Clean uses lazy evaluation
-
-C. Clean uses eager evaluation
-
-D. Clean is a not an imperative language
+A. Clean is a functional programming language 
+B. Clean uses lazy evaluation 
+C. Clean uses eager evaluation 
+D. Clean is a not an imperative language 
 
 --------
 ### 2. What is a redex?
-A. Reducible expression
-B. Redeliverable expression
-C. Redefined expression
-D. Reevaluated expression
+A. Reducible expression 
+B. Redeliverable expression 
+C. Redefined expression 
+D. Reevaluated expression 
 
 ----
 ### 3. Which one is the not equal operator?
-A. ==
-B. !=
-C. =
-D. <>
+A. == 
+B. != 
+C. = 
+D. <> 
 
 -----
 ### 4. What is the output of the code snippet below?
